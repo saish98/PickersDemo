@@ -1,4 +1,8 @@
-PickersDemo
+#PickersDemo
 ===========
-Demo Shows How textfield`s input mode can be use as DatePicker or UIPickerView
-![Alt text](https://github.com/saish98/PickersDemo/blob/master/UIPickerView.png "UIPickerView Eg)
+Demo shows how to use UITextField inputView as DatePicker/UIPickerView.
+![PickersDemo screenshot](https://raw.githubusercontent.com/saish98/PickersDemo/master/UIPickerView.png "PickersDemo screenshot")
+![PickersDemo screenshot](https://raw.githubusercontent.com/saish98/PickersDemo/master/DatePicker.png "PickersDemo screenshot")
+
+
+
