@@ -12,7 +12,6 @@
 @property (strong, nonatomic) IBOutlet UITextField *textFieldDatePicker;
 @property (strong, nonatomic) IBOutlet UITextField *textFieldPicker;
 @property (strong, nonatomic) IBOutlet UIView *viewPickerBackground;
-
 @property (strong, nonatomic) IBOutlet UIDatePicker *datePicker;
 @property (strong, nonatomic) IBOutlet UIPickerView *pickerView;
 - (IBAction)buttonDone:(id)sender;
